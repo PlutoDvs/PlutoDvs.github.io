@@ -23,5 +23,5 @@ main:
   - title: "CV"
     url: /files/CV_Nima_Ebrahimi.pdf
     
-  # - title: "Guide"
-  #   url: /markdown/
+  - title: "Transcript"
+    url: /files/Transcript.pdf
