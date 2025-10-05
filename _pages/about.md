@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello👋, I’m Nima Ebrahimi, currently an undergraduate student majoring in Computer Science at Amirkabir University of Technology. My journey into the world of programming commenced during my high school years and continued to flourish as I pursued my higher education in Computer Science. In addition to my major in Computer Science, I chose to delve into the fascinating realm of Machine Learning, a decision that has significantly enriched my perspective. This exploration was more than a choice; it was a nod to my childhood, shaped by my interest beginning in my early age.
+Hello👋, I’m Nima, a software engineer and a graduate of Amirkabir University of Technology with a Bachelor's in Computer Science. My journey into the world of technology began well before university, but it truly flourished as I pursued my degree. In addition to my core studies, I chose to delve into the fascinating and interconnected realms of Distributed Systems, Databases, and Deep Learning. I've always been driven by a genuine curiosity about how things work at a fundamental level, and these fields get right to the heart of building modern, large-scale technology.
 
 My Research interests
 ======

@@ -23,8 +23,9 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Nima Ebrahimi"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/him"  
   bio              : "B.Cs in Computer Science"
+  bio2             : "Software Engineer"
   location         : "Iran"
   employer         : "Amirkabir University of Technology"
   uri              : # URL
